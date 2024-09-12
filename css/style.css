@@ -1,0 +1,41 @@
+/** Step one **/
+
+/**---Did it in HTML---**/
+
+
+/** Step two **/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Nerko One", sans-serif;
+}
+
+/** Step three **/
+h1 {
+    font-size: 46px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #E128F6;
+
+}
+
+/** Step four **/
+p,
+a,
+li {
+    font-family: "Montserrat", sans-serif;
+}
+
+/** Step five **/
+p span {
+    color: #D79C94;
+}
+
+/** Step six **/
+h3 {
+    font-size: 2.5em;
+    text-shadow: 4px 3px 4px rgba(230, 166, 166, 0.7);
+}
